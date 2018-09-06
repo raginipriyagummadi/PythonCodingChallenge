@@ -1,0 +1,2 @@
+# PythonCodingChallenge
+For amiseq
